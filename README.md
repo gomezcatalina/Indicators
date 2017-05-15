@@ -2,8 +2,7 @@
 
 # Supplementary material of the Technical Report: "Selection and evaluation of indicators for an Ecosystem Approach to Fisheries Management (EAFM)" 
 
-This interactive supplementary material allows the reader to download and display the indicators. 
-Indicators were further evaluated and a final suite is presneted in the technical report.  
+This interactive supplementary material allows to display all indicators that were calculated and evaluated in the technical report. 
 
 You can access the supplementary material in different ways.
 
