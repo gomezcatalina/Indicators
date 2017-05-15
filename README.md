@@ -24,7 +24,7 @@ library(datasets)
 library(markdown)
 library(shinyBS)
 # Easiest way is to use runGitHub (shiny package)
-runGitHub(Indicators", "gomezcatalina")
+runGitHub("Indicators", "gomezcatalina")
 ```
 Option 3 
 ```R
