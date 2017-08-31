@@ -1,8 +1,8 @@
 # Indicators
 
-# Supplementary material of the Technical Report: "Selection and evaluation of indicators for an Ecosystem Approach to Fisheries Management (EAFM)" 
+# Supplementary material of the Technical Report: "INDICATOR SELECTION GUIDANCE FRAMEWORK"
 
-This interactive supplementary material allows to display all indicators that were calculated and evaluated in the technical report. 
+This interactive supplementary material allows to display indicators that were calculated and used in the redundancy analysis. 
 
 You can access the supplementary material in different ways.
 
