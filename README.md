@@ -1,6 +1,7 @@
 # Indicators
 
-# Supplementary material of the Technical Report: "INDICATOR SELECTION GUIDANCE FRAMEWORK"
+# Supplementary material of the Technical Report: "Guidance framework for the selection and evaluation of ecological indicators"
+https://waves-vagues.dfo-mpo.gc.ca/Library/40648886.pdf
 
 This interactive supplementary material allows to display indicators that were calculated and used in the redundancy analysis. 
 
@@ -8,7 +9,7 @@ You can access the supplementary material in different ways.
 
 Option 1
 ```R
-Follow this link: https://incorporatingecosystemapproach.shinyapps.io/indiapp/
+If you are a DFO user, follow this link: http://dmapps/en/shiny-apps/
 ```
 *For R users*
 
